@@ -1,0 +1,27 @@
+{
+  "name": "atividade02",
+  "version": "1.0.0",
+  "description": "Realização da atividade proposta pelo querido Dev \"Sistema de Cadastro de Suspeitos Envolvidos em Lavagem de Dinheiro no Jogo de Apostas\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathsanfer/atividade02.git"
+  },
+  "keywords": [
+    "SENAI",
+    "Suspeitos",
+    "Lavagem",
+    "Dinheiro",
+    "Jogo",
+    "Apostas"
+  ],
+  "author": "Nathalia Santos Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nathsanfer/atividade02/issues"
+  },
+  "homepage": "https://github.com/Nathsanfer/atividade02#readme"
+}
