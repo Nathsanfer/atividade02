@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Realização da atividade proposta pelo querido Dev \"Sistema de Cadastro de Suspeitos Envolvidos em Lavagem de Dinheiro no Jogo de Apostas\"",
   "main": "server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/Nathsanfer/atividade02/issues"
   },
-  "homepage": "https://github.com/Nathsanfer/atividade02#readme"
+  "homepage": "https://github.com/Nathsanfer/atividade02#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
 }
